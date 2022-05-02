@@ -1,0 +1,20 @@
+{
+  "name": "company-products-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielEspanadero/company-products-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielEspanadero/company-products-api/issues"
+  },
+  "homepage": "https://github.com/DanielEspanadero/company-products-api#readme"
+}
