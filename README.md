@@ -1,3 +1,5 @@
+# 👨🏻‍💻 COMPANY PRODUCTS API
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -6,4 +8,26 @@
   </a>
 </div>
 
-# 👨🏻‍💻 COMPANY PRODUCTS API
+<br>
+
+## Endpoints
+
+### Auth
+```
+POST - /api/auth/signup
+POST - /api/auth/signin
+```
+
+### Products
+```
+GET - /api/products
+GET - /api/products/:id
+POST - /api/products
+PUT - /api/products/:id
+DELETE - /api/products/:id
+```
+
+### Users
+```
+POST - /api/users
+```
